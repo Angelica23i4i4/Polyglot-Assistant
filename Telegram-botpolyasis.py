@@ -1,7 +1,7 @@
 from telebot import TeleBot
 from telebot import types
 
-bot = TeleBot('6362818937:AAGAkVQxDc3d22PVk2G5nk6ER78Q2oJEzFs')
+bot = TeleBot('Bot_token')
 h = 'http://clasevirtual.ru/index/alexander_un_dia_malo_muy_malo/0-174'
 n = 'https://www.youtube.com/results?search_query=%E2%80%9C100+pel%C3%ADculas+en+espa%C3%B1ol%E2%80%9D'
 m = 'https://animelon.com/video/63a12f239f75c625b0b80fb4'
